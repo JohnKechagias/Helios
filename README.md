@@ -1,2 +1,2 @@
 # Helios
-A basic vulkan renderer.
+A basic frame for a vulkan renderer.
